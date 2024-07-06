@@ -1,6 +1,6 @@
 "use client";
-import React, { useState } from "react";
-import ReactDOM from "react-dom";
+import React from "react";
+
 import { CopyBlock, dracula } from "react-code-blocks";
 
 const block0 = `yarn add -D @testing-library/dom @testing-library/jest-dom @testing-library/react jsdom vitest `;
